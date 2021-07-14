@@ -1,0 +1,29 @@
+body {
+  background-color: blue;
+  color: #57cf12;
+}
+h3 {
+  font-style: inherit;
+}
+
+h4 {
+  text-align: center;
+  color: yellowgreen;
+}
+
+h5 {
+  font-style:italic;
+  color: rgb(247, 58, 0);
+}
+
+.grid-container {
+  display: grid;
+  grid-row-gap: 50px;
+}
+.jumbotron {
+  background-image: url("../images/bacterial.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  margin-bottom: 0;
+  border-radius: 0;
+}
