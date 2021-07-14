@@ -1,7 +1,7 @@
 # Belly_Button_Biodiversity
 
 ## Purpose of Project
-- Using JSON file to retrieve the data, then create a horizontal bar chart, a bubble chart and gauge chart.
+- Using JSON file to retrieve the data, then create a horizontal bar chart, a bubble chart and a gauge chart.
 
 ### Results
 ![1](static/images/1.png)
